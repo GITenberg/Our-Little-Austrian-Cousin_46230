@@ -1,0 +1,33 @@
+_repo: Our-Little-Austrian-Cousin_46230
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Marlowe, Diantha Horne
+    gutenberg_agent_id: '43669'
+    url: http://www.gutenberg.org/2009/agents/43669
+covers:
+- cover_type: archival
+  image_path: 46230-h/images/ifrontcover.jpg
+creator:
+  author:
+    agent_name: Mendel, Florence Emma Voigt
+    alias: Mendel, Florence E.
+    birthdate: 1874
+    gutenberg_agent_id: '42263'
+    url: http://www.gutenberg.org/2009/agents/42263
+description: ''
+gutenberg_issued: '2014-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46230'
+  lccn: '13015168'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children -- Austria -- Juvenile literature'
+- !lcc 'DB'
+title: Our Little Austrian Cousin
+url: http://www.gutenberg.org/ebooks/46230
